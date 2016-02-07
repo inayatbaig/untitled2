@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+
+body{
+    background-color: darkgray;
+}
+
+.display{
+    width: 720px;
+    height: 692px;
+    margin: 0 auto;
+    padding: 1px;
+    background-image: url(assign2.png);
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    padding: 35px;
+    margin: 0 auto;
+    background: url(pic.png.jpg);
+    -webkit-border-radius: 150px;
+    -webkit-background-size: cover;
+}
+.circle{
+    margin-top: 182px;
+    margin-left: 264px;
+}
+
+.line{
+    height: 28px;
+    width: 716px;
+    background: white;
+    font-size: 25px;
+    font-style: oblique;
+    color: black;
+    text-align: center;
+    margin-top: 13px;
+    margin-left: 2px;
+}
+
+.submit{
+    color:white ;
+    border-radius: 1px;
+    border: solid red;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+}
+
+
+
+
+
+#email {
+    height: 25px;
+    width: 190px;
+    background: white;
+    font-size: 17px;
+    font-style: oblique;
+    color: black;
+    text-align: center;
+    margin-top: 14px;
+    margin-left: 223px;
+}
+.submit{
+    display: inline;
+    height: 30px;
+    width: 71px;
+    background-color: red;
+    text-align: center;
+}
+
